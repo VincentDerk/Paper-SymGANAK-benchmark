@@ -1,48 +1,49 @@
 # fpga
-./fpga/fpga10_8_sat.cnf
-./fpga/fpga10_8_sat_rcr.cnf
-./fpga/fpga10_9_sat.cnf
-./fpga/fpga10_9_sat_rcr.cnf
-./fpga/fpga12_8_sat.cnf
-./fpga/fpga12_8_sat_rcr.cnf
-./fpga/fpga12_9_sat.cnf
-./fpga/fpga12_9_sat_rcr.cnf
-./fpga/fpga12_10_sat_rcr.cnf
-./fpga/fpga12_11_sat.cnf
-./fpga/fpga12_11_sat_rcr.cnf
-./fpga/fpga12_12_sat.cnf
-./fpga/fpga12_12_sat_rcr.cnf
-./fpga/fpga13_9_sat.cnf
-./fpga/fpga13_9_sat_rcr.cnf
-./fpga/fpga13_10_sat.cnf
-./fpga/fpga13_10_sat_rcr.cnf
-./fpga/fpga13_11_sat_rcr.cnf
-./fpga/fpga13_12_sat.cnf
-./fpga/fpga13_12_sat_rcr.cnf
+fpga/fpga10_8_sat.cnf
+fpga/fpga10_8_sat_rcr.cnf
+fpga/fpga10_9_sat.cnf
+fpga/fpga10_9_sat_rcr.cnf
+fpga/fpga12_8_sat.cnf
+fpga/fpga12_8_sat_rcr.cnf
+fpga/fpga12_9_sat.cnf
+fpga/fpga12_9_sat_rcr.cnf
+fpga/fpga12_10_sat_rcr.cnf
+fpga/fpga12_11_sat.cnf
+fpga/fpga12_11_sat_rcr.cnf
+fpga/fpga12_12_sat.cnf
+fpga/fpga12_12_sat_rcr.cnf
+fpga/fpga13_9_sat.cnf
+fpga/fpga13_9_sat_rcr.cnf
+fpga/fpga13_10_sat.cnf
+fpga/fpga13_10_sat_rcr.cnf
+fpga/fpga13_11_sat_rcr.cnf
+fpga/fpga13_12_sat.cnf
+fpga/fpga13_12_sat_rcr.cnf
 
 
 # grid
-./grid/Ratio_50/
-./grid/Ratio_75/
-./grid/Ratio_90/
+grid/Ratio_50/
+grid/Ratio_75/
+grid/Ratio_90/
 
 
 # MCNC-reduced
-./MCNC-reduced/apex5.cnf
-./MCNC-reduced/apex6.cnf
-./MCNC-reduced/C499.cnf
-./MCNC-reduced/C880.cnf
-./MCNC-reduced/C1355.cnf
-./MCNC-reduced/C1908.cnf
-./MCNC-reduced/C2670.cnf
-./MCNC-reduced/C3540.cnf
-./MCNC-reduced/C5315.cnf
-./MCNC-reduced/C6288.cnf
-./MCNC-reduced/C7552.cnf
-./MCNC-reduced/pair.cnf
-./MCNC-reduced/t481.cnf
-./MCNC-reduced/term1.cnf
-./MCNC-reduced/too_large.cnf
-./MCNC-reduced/x1.cnf
-./MCNC-reduced/x3.cnf
+MCNC-reduced/blif2cnf.pl
+MCNC-reduced/apex5.cnf
+MCNC-reduced/apex6.cnf
+MCNC-reduced/C499.cnf
+MCNC-reduced/C880.cnf
+MCNC-reduced/C1355.cnf
+MCNC-reduced/C1908.cnf
+MCNC-reduced/C2670.cnf
+MCNC-reduced/C3540.cnf
+MCNC-reduced/C5315.cnf
+MCNC-reduced/C6288.cnf
+MCNC-reduced/C7552.cnf
+MCNC-reduced/pair.cnf
+MCNC-reduced/t481.cnf
+MCNC-reduced/term1.cnf
+MCNC-reduced/too_large.cnf
+MCNC-reduced/x1.cnf
+MCNC-reduced/x3.cnf
 
